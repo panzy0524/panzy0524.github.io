@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Zhongyu Pan's first blog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I was so honored to join the MDS family. The first week was intense. But I am sure all of us will go through any kinds of obstacles and learn the skills we need from this program! Thanks for faculty and TA's hard work!
